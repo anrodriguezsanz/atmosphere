@@ -1,0 +1,7 @@
+.btn.stop-btn {
+  width: 200px !important;
+  height: 80px !important;
+  font-weight: bold !important;
+  letter-spacing: 2px !important;
+  text-transform: uppercase !important;
+}

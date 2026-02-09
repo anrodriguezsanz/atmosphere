@@ -1,0 +1,23 @@
+.row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-left: 60px;
+  padding-right: 60px;
+}
+
+.timer-text, .atmosphere-text {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.start-btn {
+  width: 200px;
+  height: 80px;
+  margin-bottom: 100px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+  background-color: rgb(39, 39, 39);
+  border-color: rgb(39, 39, 39);
+}

@@ -2,6 +2,11 @@
 
 **Atmosphere** is an immersive productivity/relaxation web application designed with React. It blends ambient soundscapes with minimalist visual environments. 
 
+## Demo
+
+You can try the application yourself at: 
+
+[https://anrodriguezsanz.github.io/atmosphere/](https://anrodriguezsanz.github.io/atmosphere/)
 
 ## Core Feautres
 
